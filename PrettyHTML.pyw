@@ -37,7 +37,6 @@ def pretty():
 #main
 root = tk.Tk()
 root.title(name)
-root.iconbitmap('assets/icon.ico')
 root.geometry('300x100')
 root.resizable(False, False)
 
