@@ -23,7 +23,7 @@ Once the libraries are installed, you can download and run the PrettyHTML progra
 1. Run the PrettyHTML program by running the command: 
 
 ```
-python prettyhtml.py
+python prettyhtml.pyw
 ```
 
 2. Click the "Choose File" button to select an HTML file to prettify. 
