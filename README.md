@@ -5,7 +5,6 @@ PrettyHTML is a simple Python program that utilizes the BeautifulSoup library to
 ## Info
 
 - Name: PrettyHTML
-- Version: 1.0.0
 - Author: Filip Rokita
 - Website: www.filiprokita.com
 
