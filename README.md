@@ -39,10 +39,6 @@ python prettyhtml.py
 
 4. The prettified HTML will be saved to the same location as the original file.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Author
 
 - Filip Rokita
